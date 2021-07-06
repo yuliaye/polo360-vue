@@ -1,4 +1,4 @@
-# website_practice
+# polo360-vue
 
 ## Project setup
 ```
@@ -22,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-"# polo360-vue" 
