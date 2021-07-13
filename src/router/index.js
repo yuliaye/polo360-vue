@@ -8,12 +8,8 @@ const router = new VueRouter({
   mode: 'history',
   routes: [
     {
-      path: '/home',
+      path: '/',
       component: Home
-    },
-    {
-      path: '',
-      redirect: '/home'
     }
   ]
 })
