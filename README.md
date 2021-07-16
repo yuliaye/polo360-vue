@@ -1,5 +1,7 @@
 # polo360-vue
 
+[Preview Online](https://yuliaye.github.io/polo360-vue/)
+
 ## Project setup
 ```
 npm install
